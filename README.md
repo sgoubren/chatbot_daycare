@@ -1,6 +1,6 @@
 # Happy Kids Daycare Chatbot
 
-A simple Python chatbot using the Ollama LLaMA 3.2 model to simulate interactions with parents interested in enrolling their children at Happy Kids Daycare. This chatbot provides accurate, context-aware responses to parent inquiries based on the daycare’s policies and availability.
+A simple Python chatbot using the **Ollama LLaMA 3.2 model** to simulate interactions with parents interested in enrolling their children at Happy Kids Daycare. This chatbot provides accurate, context-aware responses to parent inquiries based on the daycare’s policies and availability.
 
 # Features
 
